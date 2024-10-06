@@ -1,4 +1,4 @@
-# Eugeneer's World
+# Eugeneer's Galaxy
 My last posts:
 <!-- blogger articles start -->
 - [Лаборатория с REMnux.](http://nyukers.blogspot.com/2024/10/remnux.html)
