@@ -1,9 +1,9 @@
 # Eugeneer's Galaxy
 My last posts:
 <!-- blogger articles start -->
-- <a href="http://nyukers.blogspot.com/2024/11/upscaler-stable-diffusion.html" target="_blank">Выбираем Upscaler для Stable Diffusion.</a>
-- <a href="http://nyukers.blogspot.com/2024/11/forge-flux.html" target="_blank">Стили в Forge и как их использовать на моделях FLUX</a>
-- <a href="http://nyukers.blogspot.com/2024/11/blog-post.html" target="_blank">Управляем принтерами из командной строки.</a>
+- <a href="http://nyukers.blogspot.com/2024/11/photomaker-forge.html" target="_blank">Про Photomaker и Forge.</a>
+- <a href="http://nyukers.blogspot.com/2024/11/reactor.html" target="_blank">Запуск ядерного ReActor-а.</a>
+- <a href="http://nyukers.blogspot.com/2024/11/sd.html" target="_blank">Кладовая стилей: художники, дизайнеры, фотографы для SD.</a>
 
 <!-- blogger articles end -->
 
