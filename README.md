@@ -1,4 +1,4 @@
-# Eugeneer's Galaxy
+# Nyukers Galaxy
 My last posts:
 <!-- blogger articles start -->
 - <a href="http://nyukers.blogspot.com/2024/11/web-automatic1111.html" target="_blank">Web-браузер для Automatic1111.</a>
