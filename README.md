@@ -1,9 +1,9 @@
 # Nyukers Galaxy Blog
 My last posts:
 <!-- blogger articles start -->
-- <a href="http://nyukers.blogspot.com/2025/07/blog-post.html" target="_blank">Программисты больше не нужны?</a>
-- <a href="http://nyukers.blogspot.com/2025/06/blog-post.html" target="_blank">Останок роботи батареї ноутбука.</a>
-- <a href="http://nyukers.blogspot.com/2025/06/genai_0826679570.html" target="_blank">Революция восприятия и GenAI.</a>
+- <a href="http://nyukers.blogspot.com/2025/07/facefusion.html" target="_blank">FaceFusion - замена лиц на изображениях и видео.</a>
+- <a href="http://nyukers.blogspot.com/2025/07/far-7zip.html" target="_blank">Far та 7zip.</a>
+- <a href="http://nyukers.blogspot.com/2025/07/outlook.html" target="_blank">Відпустка та Outlook.</a>
 
 <!-- blogger articles end -->
 
