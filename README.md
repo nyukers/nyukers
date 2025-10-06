@@ -1,9 +1,9 @@
 # Nyukers Galaxy Blog
 My last posts:
 <!-- blogger articles start -->
-- <a href="http://nyukers.blogspot.com/2025/09/about-wmi-code-creator.html" target="_blank">About WMI Code Creator.</a>
-- <a href="http://nyukers.blogspot.com/2025/09/showwindow.html" target="_blank">Используем ShowWindow.</a>
-- <a href="http://nyukers.blogspot.com/2025/09/pdf.html" target="_blank">PDF друк різних розмірів.</a>
+- <a href="http://nyukers.blogspot.com/2025/10/google-ai-studio-vercel.html" target="_blank">Google AI Studio та Vercel.</a>
+- <a href="http://nyukers.blogspot.com/2025/10/welcome-to-pixel-ai-studio.html" target="_blank">Welcome to Pixel AI Studio!</a>
+- <a href="http://nyukers.blogspot.com/2025/09/wmi-code-creator-manuals.html" target="_blank">WMI Code Creator manuals</a>
 
 <!-- blogger articles end -->
 
