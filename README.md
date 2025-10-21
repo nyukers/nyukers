@@ -1,4 +1,4 @@
-# Nyukers Galaxy Blog
+# Nyukers Galaxy ©
 My last posts:
 <!-- blogger articles start -->
 - <a href="http://nyukers.blogspot.com/2025/10/get-aduser-unable-to-contact-server.html" target="_blank">Get-ADUser та Unable to contact server.</a>
