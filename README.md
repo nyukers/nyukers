@@ -1,9 +1,9 @@
 # Nyukers Galaxy ©
 My last posts:
 <!-- blogger articles start -->
-- <a href="http://nyukers.blogspot.com/2025/10/get-aduser-unable-to-contact-server.html" target="_blank">Get-ADUser та Unable to contact server.</a>
-- <a href="http://nyukers.blogspot.com/2025/10/api-pixel-ai-studio.html" target="_blank">Ваш API ключ для Pixel AI Studio.</a>
-- <a href="http://nyukers.blogspot.com/2025/10/pixel-panorama-pro.html" target="_blank">Pixel Panorama Pro.</a>
+- <a href="http://nyukers.blogspot.com/2025/10/pixel-ai-studio.html" target="_blank">Промпт-інжиніринг з Pixel AI Studio.</a>
+- <a href="http://nyukers.blogspot.com/2025/10/blog-post.html" target="_blank">Ставимо драйвера пакетом.</a>
+- <a href="http://nyukers.blogspot.com/2025/10/code-assistant-google-ai-studio-build.html" target="_blank">Про Code Assistant в Google AI Studio.</a>
 
 <!-- blogger articles end -->
 
