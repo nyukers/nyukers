@@ -1,3 +1,7 @@
+<div align="center">
+<img width="825" height="690" alt="Nyukers Galaxy" src="https://github.com/nyukers/MyBook/blob/main/banner.jpg" />
+</div>
+
 # Nyukers Galaxy © 2026
 My last posts:
 <!-- blogger articles start -->
