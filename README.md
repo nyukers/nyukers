@@ -1,4 +1,4 @@
-# Nyukers Galaxy ©
+# Nyukers Galaxy © 2026
 My last posts:
 <!-- blogger articles start -->
 - <a href="http://nyukers.blogspot.com/2026/02/ai-one-man-studio.html" target="_blank">Кінець епохи "німого" AI та початок ери One-Man Studio</a>
