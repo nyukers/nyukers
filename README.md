@@ -2,7 +2,7 @@
 <img width="825" height="690" alt="Nyukers Galaxy" src="https://github.com/nyukers/MyBook/blob/main/banner.jpg" />
 </div>
 
-# Nyukers Galaxy © 2026
+# Nyukers Galaxy © 2010 - 2026
 My last posts:
 <!-- blogger articles start -->
 - <a href="http://nyukers.blogspot.com/2026/03/git-ftp.html" target="_blank">Твій Git як класичний FTP.</a>
