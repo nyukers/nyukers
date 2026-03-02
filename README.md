@@ -5,9 +5,9 @@
 # Nyukers Galaxy © 2026
 My last posts:
 <!-- blogger articles start -->
-- <a href="http://nyukers.blogspot.com/2026/02/ai-one-man-studio.html" target="_blank">Кінець епохи "німого" AI та початок ери One-Man Studio</a>
-- <a href="http://nyukers.blogspot.com/2026/02/beyond-code-wild-coffee-is-finally.html" target="_blank">Beyond the Code: "Wild Coffee" is Finally Served</a>
-- <a href="http://nyukers.blogspot.com/2026/02/print-screen.html" target="_blank">Траблшутінг помилки Print Screen</a>
+- <a href="http://nyukers.blogspot.com/2026/03/git-ftp.html" target="_blank">Твій Git як класичний FTP.</a>
+- <a href="http://nyukers.blogspot.com/2026/03/blog-post.html" target="_blank">Генератор майстер-промпту.</a>
+- <a href="http://nyukers.blogspot.com/2026/02/patch-me-gently-bonus-shot.html" target="_blank">PATCH ME GENTLY (Bonus Shot)</a>
 
 <!-- blogger articles end -->
 
