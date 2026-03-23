@@ -5,9 +5,9 @@
 # Nyukers Galaxy © 2010 - 2026
 My last posts:
 <!-- blogger articles start -->
+- <a href="http://nyukers.blogspot.com/2026/03/blog-post_20.html" target="_blank">Код да Вінчі - невідома версія.</a>
 - <a href="http://nyukers.blogspot.com/2026/03/blog-post_11.html" target="_blank">Аудит символічних посилань.</a>
 - <a href="http://nyukers.blogspot.com/2026/03/wild-coffee-march-8th-special-edition.html" target="_blank">WILD COFFEE: March 8th Special Edition</a>
-- <a href="http://nyukers.blogspot.com/2026/03/viral-architect-asmr.html" target="_blank">Viral Architect у світі ASMR.</a>
 
 <!-- blogger articles end -->
 
