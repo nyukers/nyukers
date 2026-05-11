@@ -5,9 +5,9 @@
 # Nyukers Galaxy © 2010 - 2026
 My last posts:
 <!-- blogger articles start -->
+- <a href="https://nyukers.blogspot.com/2026/05/3-youtube.html" target="_blank">Правило 3-х хвилин в Youtube.</a>
+- <a href="https://nyukers.blogspot.com/2026/05/blog-post.html" target="_blank">Реальність переоцінена!</a>
 - <a href="https://nyukers.blogspot.com/2026/04/image-2-openai.html" target="_blank">Огляд моделі Image 2 від OpenAI</a>
-- <a href="https://nyukers.blogspot.com/2026/04/lm-studio-ollama.html" target="_blank">LM Studio или Ollama Server?</a>
-- <a href="https://nyukers.blogspot.com/2026/04/voxdirector-ai-voiceover-studio.html" target="_blank">VoxDirector - ваша AI Voiceover Studio</a>
 
 <!-- blogger articles end -->
 
