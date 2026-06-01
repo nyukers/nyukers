@@ -5,9 +5,9 @@
 # Nyukers Galaxy © 2010 - 2026
 My last posts:
 <!-- blogger articles start -->
+- <a href="https://nyukers.blogspot.com/2026/05/moviemaker.html" target="_blank">Чтиво для Moviemaker</a>
 - <a href="https://nyukers.blogspot.com/2026/05/gemini-omni.html" target="_blank">Встречайте Gemini Omni.</a>
 - <a href="https://nyukers.blogspot.com/2026/05/ai-assistant-for-glpi.html" target="_blank">AI Assistant for GLPI</a>
-- <a href="https://nyukers.blogspot.com/2026/05/3-youtube.html" target="_blank">Правило 3-х хвилин в Youtube.</a>
 
 <!-- blogger articles end -->
 
