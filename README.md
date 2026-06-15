@@ -5,9 +5,9 @@
 # Nyukers Galaxy © 2010 - 2026
 My last posts:
 <!-- blogger articles start -->
+- <a href="https://nyukers.blogspot.com/2026/06/blog-post_11.html" target="_blank">Ламані лінії.</a>
+- <a href="https://nyukers.blogspot.com/2026/06/blog-post.html" target="_blank">Бар'єр.</a>
 - <a href="https://nyukers.blogspot.com/2026/06/omni-flash.html" target="_blank">Тариф Omni Flash.</a>
-- <a href="https://nyukers.blogspot.com/2026/05/moviemaker.html" target="_blank">Чтиво для Moviemaker</a>
-- <a href="https://nyukers.blogspot.com/2026/05/gemini-omni.html" target="_blank">Встречайте Gemini Omni.</a>
 
 <!-- blogger articles end -->
 
