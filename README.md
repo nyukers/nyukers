@@ -5,9 +5,9 @@
 # Nyukers Galaxy © 2010 - 2026
 My last posts:
 <!-- blogger articles start -->
-- <a href="https://nyukers.blogspot.com/2026/06/blog-post_11.html" target="_blank">Ламані лінії.</a>
-- <a href="https://nyukers.blogspot.com/2026/06/blog-post.html" target="_blank">Бар'єр.</a>
-- <a href="https://nyukers.blogspot.com/2026/06/omni-flash.html" target="_blank">Тариф Omni Flash.</a>
+- <a href="https://nyukers.blogspot.com/2026/06/drone-pov.html" target="_blank">Генерация Drone POV по фото.</a>
+- <a href="https://nyukers.blogspot.com/2026/06/watermark.html" target="_blank">Чи потрібен в наш час watermark?</a>
+- <a href="https://nyukers.blogspot.com/2026/06/googletranslate.html" target="_blank">Про GOOGLE TRANSLATE</a>
 
 <!-- blogger articles end -->
 
