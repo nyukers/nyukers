@@ -5,9 +5,9 @@
 # Nyukers Galaxy © 2010 - 2050
 My last posts:
 <!-- blogger articles start -->
-- <a href="https://nyukers.blogspot.com/2026/07/google-earth-studio.html" target="_blank">Google Earth Studio</a>
-- <a href="https://nyukers.blogspot.com/2026/07/swarm-2002-2026.html" target="_blank">SWARM: від 2002 до 2026.</a>
-- <a href="https://nyukers.blogspot.com/2026/07/blog-post.html" target="_blank">Оселя ІТ-смутку.</a>
+- <a href="https://nyukers.blogspot.com/2026/08/blog-post_07.html" target="_blank">Таро Українського Міфу</a>
+- <a href="https://nyukers.blogspot.com/2026/08/blog-post.html" target="_blank">Нова ера.</a>
+- <a href="https://nyukers.blogspot.com/2026/08/0308.html" target="_blank">Артефакт 0308.</a>
 
 <!-- blogger articles end -->
 
