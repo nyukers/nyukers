@@ -5,9 +5,9 @@
 # Nyukers Galaxy © 2010 - 2050
 My last posts:
 <!-- blogger articles start -->
+- <a href="https://nyukers.blogspot.com/2026/08/comfyui.html" target="_blank">Апскейлінг АІ-відео в ComfyUI.</a>
 - <a href="https://nyukers.blogspot.com/2026/08/blog-post_07.html" target="_blank">Таро Українського Міфу</a>
 - <a href="https://nyukers.blogspot.com/2026/08/blog-post.html" target="_blank">Нова ера.</a>
-- <a href="https://nyukers.blogspot.com/2026/08/0308.html" target="_blank">Артефакт 0308.</a>
 
 <!-- blogger articles end -->
 
