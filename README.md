@@ -5,9 +5,9 @@
 # Nyukers Galaxy © 2010 - 2050
 My last posts:
 <!-- blogger articles start -->
-- <a href="https://nyukers.blogspot.com/2026/08/comfyui.html" target="_blank">Апскейлінг АІ-відео в ComfyUI.</a>
-- <a href="https://nyukers.blogspot.com/2026/08/blog-post_07.html" target="_blank">Таро Українського Міфу</a>
-- <a href="https://nyukers.blogspot.com/2026/08/blog-post.html" target="_blank">Нова ера.</a>
+- <a href="https://nyukers.blogspot.com/2026/08/blog-post_22.html" target="_blank">Політ крізь замкову щілину.</a>
+- <a href="https://nyukers.blogspot.com/2026/08/escher-paradox.html" target="_blank">Дивна гральна колода (Escher Paradox)</a>
+- <a href="https://nyukers.blogspot.com/2026/08/chatgpt.html" target="_blank">Корисні ключики до ChatGPT.</a>
 
 <!-- blogger articles end -->
 
