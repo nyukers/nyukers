@@ -5,9 +5,9 @@
 # Nyukers Galaxy © 2010 - 2050
 My last posts:
 <!-- blogger articles start -->
+- <a href="https://nyukers.blogspot.com/2026/09/blog-post.html" target="_blank">Секрети подвійної експозиції.</a>
+- <a href="https://nyukers.blogspot.com/2026/09/genai.html" target="_blank">GenAI пише "на паркані".</a>
 - <a href="https://nyukers.blogspot.com/2026/08/blog-post_22.html" target="_blank">Політ крізь замкову щілину.</a>
-- <a href="https://nyukers.blogspot.com/2026/08/escher-paradox.html" target="_blank">Дивна гральна колода (Escher Paradox)</a>
-- <a href="https://nyukers.blogspot.com/2026/08/chatgpt.html" target="_blank">Корисні ключики до ChatGPT.</a>
 
 <!-- blogger articles end -->
 
