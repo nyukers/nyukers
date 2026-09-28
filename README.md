@@ -5,9 +5,9 @@
 # Nyukers Galaxy © 2010 - 2050
 My last posts:
 <!-- blogger articles start -->
+- <a href="https://nyukers.blogspot.com/2026/09/100-command-prompts-for-chatgpt-image.html" target="_blank">100 Command Prompts for ChatGPT Image.</a>
+- <a href="https://nyukers.blogspot.com/2026/09/active-directory.html" target="_blank">Гомогліфи в Active Directory</a>
 - <a href="https://nyukers.blogspot.com/2026/09/pixel-maker.html" target="_blank">Pixel Maker - це назавжди.</a>
-- <a href="https://nyukers.blogspot.com/2026/09/blog-post.html" target="_blank">Секрети подвійної експозиції.</a>
-- <a href="https://nyukers.blogspot.com/2026/09/genai.html" target="_blank">GenAI пише "на паркані".</a>
 
 <!-- blogger articles end -->
 
