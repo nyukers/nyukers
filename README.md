@@ -5,9 +5,9 @@
 # Nyukers Galaxy © 2010 - 2050
 My last posts:
 <!-- blogger articles start -->
+- <a href="https://nyukers.blogspot.com/2026/10/17-chatgpt.html" target="_blank">17 прихованих промптів з ChatGPT.</a>
+- <a href="https://nyukers.blogspot.com/2026/10/ltx-director-vs-minimax-director.html" target="_blank">LTX Director vs MiniMax Director.</a>
 - <a href="https://nyukers.blogspot.com/2026/09/100-command-prompts-for-chatgpt-image.html" target="_blank">100 Command Prompts for ChatGPT Image.</a>
-- <a href="https://nyukers.blogspot.com/2026/09/active-directory.html" target="_blank">Гомогліфи в Active Directory</a>
-- <a href="https://nyukers.blogspot.com/2026/09/pixel-maker.html" target="_blank">Pixel Maker - це назавжди.</a>
 
 <!-- blogger articles end -->
 
